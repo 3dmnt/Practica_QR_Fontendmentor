@@ -16,7 +16,7 @@ Currently, in addition to my classes that I am doing at the BootCamp at [HACKABO
 
 ## ¡Bienvenido! 👋
 
-Gracias por dejarte caer pro aqui, te muestro mi practica.
+Gracias por dejarte caer por aqui, te muestro mi practica.
 
 Actualmente ademas de mi clases que estoy realizando en el BootCamp en [HACKABOSS](https://www.hackaboss.com) tambien estoy practicando con los desafíos de [Frontend Mentor](https://www.frontendmentor.io) de esta forma entreno y mejoro mis competencias en diferentes practicas.
 
